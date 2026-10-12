@@ -1,0 +1,7 @@
+id,source,target,max_chars
+menu.play,New Game,Новая игра,20
+quest.gold,"You received {gold} gold!","Вы получили золота!",40
+dialog.welcome,"Welcome, {player_name}!","Добро пожаловать!",50
+inventory.empty,Your inventory is empty.,,40
+settings.audio,Audio Settings,Настройки аудио,12
+dialog.bold,"You are <b>ready</b>.","Ты готов.",40
